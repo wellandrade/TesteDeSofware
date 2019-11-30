@@ -1,0 +1,11 @@
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\NerdStore.Vendas.Application\bin\Debug\netcoreapp3.0\NerdStore.Vendas.Application.deps.json
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\NerdStore.Vendas.Application\bin\Debug\netcoreapp3.0\NerdStore.Vendas.Application.dll
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\NerdStore.Vendas.Application\bin\Debug\netcoreapp3.0\NerdStore.Vendas.Application.pdb
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\NerdStore.Vendas.Application\bin\Debug\netcoreapp3.0\NerdStore.Vendas.Domain.dll
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\NerdStore.Vendas.Application\bin\Debug\netcoreapp3.0\NerdStore.Vendas.Domain.pdb
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\NerdStore.Vendas.Application\obj\Debug\netcoreapp3.0\NerdStore.Vendas.Application.csprojAssemblyReference.cache
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\NerdStore.Vendas.Application\obj\Debug\netcoreapp3.0\NerdStore.Vendas.Application.AssemblyInfoInputs.cache
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\NerdStore.Vendas.Application\obj\Debug\netcoreapp3.0\NerdStore.Vendas.Application.AssemblyInfo.cs
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\NerdStore.Vendas.Application\obj\Debug\netcoreapp3.0\NerdStore.Vendas.Application.csproj.CopyComplete
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\NerdStore.Vendas.Application\obj\Debug\netcoreapp3.0\NerdStore.Vendas.Application.dll
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\NerdStore.Vendas.Application\obj\Debug\netcoreapp3.0\NerdStore.Vendas.Application.pdb

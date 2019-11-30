@@ -1,0 +1,17 @@
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeSoftware\TesteDeUnidade\Demo\bin\Debug\netcoreapp2.2\Demo.deps.json
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeSoftware\TesteDeUnidade\Demo\bin\Debug\netcoreapp2.2\Demo.dll
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeSoftware\TesteDeUnidade\Demo\bin\Debug\netcoreapp2.2\Demo.pdb
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeSoftware\TesteDeUnidade\Demo\obj\Debug\netcoreapp2.2\Demo.csprojAssemblyReference.cache
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeSoftware\TesteDeUnidade\Demo\obj\Debug\netcoreapp2.2\Demo.csproj.CoreCompileInputs.cache
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeSoftware\TesteDeUnidade\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfoInputs.cache
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeSoftware\TesteDeUnidade\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfo.cs
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeSoftware\TesteDeUnidade\Demo\obj\Debug\netcoreapp2.2\Demo.dll
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeSoftware\TesteDeUnidade\Demo\obj\Debug\netcoreapp2.2\Demo.pdb
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\1_TesteBasico\Demo\bin\Debug\netcoreapp2.2\Demo.deps.json
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\1_TesteBasico\Demo\bin\Debug\netcoreapp2.2\Demo.dll
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\1_TesteBasico\Demo\bin\Debug\netcoreapp2.2\Demo.pdb
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\1_TesteBasico\Demo\obj\Debug\netcoreapp2.2\Demo.csprojAssemblyReference.cache
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\1_TesteBasico\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfoInputs.cache
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\1_TesteBasico\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfo.cs
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\1_TesteBasico\Demo\obj\Debug\netcoreapp2.2\Demo.dll
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\1_TesteBasico\Demo\obj\Debug\netcoreapp2.2\Demo.pdb

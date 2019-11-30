@@ -1,0 +1,14 @@
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features.Tests\bin\Debug\netcoreapp2.1\Features.Tests.deps.json
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features.Tests\bin\Debug\netcoreapp2.1\Features.Tests.runtimeconfig.json
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features.Tests\bin\Debug\netcoreapp2.1\Features.Tests.runtimeconfig.dev.json
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features.Tests\bin\Debug\netcoreapp2.1\Features.Tests.dll
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features.Tests\bin\Debug\netcoreapp2.1\Features.Tests.pdb
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features.Tests\obj\Debug\netcoreapp2.1\Features.Tests.csprojAssemblyReference.cache
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features.Tests\obj\Debug\netcoreapp2.1\Features.Tests.csproj.CoreCompileInputs.cache
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features.Tests\obj\Debug\netcoreapp2.1\Features.Tests.AssemblyInfoInputs.cache
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features.Tests\obj\Debug\netcoreapp2.1\Features.Tests.AssemblyInfo.cs
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features.Tests\obj\Debug\netcoreapp2.1\Features.Tests.dll
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features.Tests\obj\Debug\netcoreapp2.1\Features.Tests.pdb

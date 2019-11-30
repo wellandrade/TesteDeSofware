@@ -1,0 +1,17 @@
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeSoftware\TesteDeUnidade\Features\Features\bin\Debug\netcoreapp2.2\Features.deps.json
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeSoftware\TesteDeUnidade\Features\Features\bin\Debug\netcoreapp2.2\Features.dll
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeSoftware\TesteDeUnidade\Features\Features\bin\Debug\netcoreapp2.2\Features.pdb
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeSoftware\TesteDeUnidade\Features\Features\obj\Debug\netcoreapp2.2\Features.csprojAssemblyReference.cache
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeSoftware\TesteDeUnidade\Features\Features\obj\Debug\netcoreapp2.2\Features.csproj.CoreCompileInputs.cache
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeSoftware\TesteDeUnidade\Features\Features\obj\Debug\netcoreapp2.2\Features.AssemblyInfoInputs.cache
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeSoftware\TesteDeUnidade\Features\Features\obj\Debug\netcoreapp2.2\Features.AssemblyInfo.cs
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeSoftware\TesteDeUnidade\Features\Features\obj\Debug\netcoreapp2.2\Features.dll
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeSoftware\TesteDeUnidade\Features\Features\obj\Debug\netcoreapp2.2\Features.pdb
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features\bin\Debug\netcoreapp2.2\Features.deps.json
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features\bin\Debug\netcoreapp2.2\Features.dll
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features\bin\Debug\netcoreapp2.2\Features.pdb
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features\obj\Debug\netcoreapp2.2\Features.AssemblyInfoInputs.cache
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features\obj\Debug\netcoreapp2.2\Features.AssemblyInfo.cs
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features\obj\Debug\netcoreapp2.2\Features.dll
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features\obj\Debug\netcoreapp2.2\Features.pdb
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\TesteDeUnidade\2_Features\Features\obj\Debug\netcoreapp2.2\Features.csprojAssemblyReference.cache

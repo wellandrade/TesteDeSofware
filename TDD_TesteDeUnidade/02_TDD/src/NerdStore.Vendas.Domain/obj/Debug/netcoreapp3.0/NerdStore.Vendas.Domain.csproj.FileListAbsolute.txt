@@ -1,0 +1,8 @@
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\02_TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.0\NerdStore.Vendas.Domain.deps.json
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\02_TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.0\NerdStore.Vendas.Domain.dll
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\02_TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.0\NerdStore.Vendas.Domain.pdb
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\02_TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.0\NerdStore.Vendas.Domain.AssemblyInfoInputs.cache
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\02_TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.0\NerdStore.Vendas.Domain.AssemblyInfo.cs
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\02_TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.0\NerdStore.Vendas.Domain.dll
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\02_TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.0\NerdStore.Vendas.Domain.pdb
+C:\Users\familia\Desktop\Estudo\Cursos\_Desenvolvedor.io\TesteDeSoftware\02_TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.0\NerdStore.Vendas.Domain.csprojAssemblyReference.cache
